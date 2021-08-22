@@ -1,0 +1,199 @@
+WARD_NO,WARD_NAME,WORKING_POP
+1,Kempegowda Ward,14794
+2,Chowdeswari Ward,16865
+3,Atturu,23818
+4,Yelahanka Satellite Town,17722
+5,Jakkuru,20445
+6,Thanisandra,28442
+7,Byatarayanapura,32155
+8,Kodigehalli,20690
+9,Vidyaranyapura,23935
+10,Dodda Bommasandra,16278
+11,Kuvempu Nagar,14587
+12,Shettihalli,25695
+13,Mallasandra,18336
+14,Bagalakunte,28278
+15,T Dasarahalli,15657
+16,Jalahalli,16389
+17,J P Park,20881
+18,Radhakrishna Temple Ward,15041
+19,Sanjaya Nagar,12927
+20,Ganga Nagar,10684
+21,Hebbala,13610
+22,Vishwanath Nagenahalli,21176
+23,Nagavara,21012
+24,HBR Layout,24149
+25,Horamavu,41385
+26,Ramamurthy Nagar,20273
+27,Banasavadi,22860
+28,Kammanahalli,21673
+29,Kacharkanahalli,14490
+30,Kadugondanahalli,16423
+31,Kushal Nagar,14259
+32,Kaval Bairasandra,17038
+33,Manorayanapalya,18374
+34,Gangenahalli,9748
+35,Aramane Nagara,14761
+36,Mattikere,15345
+37,Yeshwanthpura,16911
+38,HMT Ward,18252
+39,Chokkasandra,33082
+40,Dodda Bidarakallu,37037
+41,Peenya Industrial Area,34557
+42,Lakshmi Devi Nagar,22023
+43,Nandini Layout,24523
+44,Marappana Palya,18024
+45,Malleswaram,13572
+46,Jayachamarajendra Nagar,12301
+47,Devara Jeevanahalli,16403
+48,Muneshwara Nagar,12555
+49,Lingarajapura,14916
+50,Benniganahalli,22549
+51,Vijnanapura,18945
+52,K R Puram,14711
+53,Basavanapura,19676
+54,Hudi,23792
+55,Devasandra,15274
+56,A Narayanapura,18226
+57,C V Raman Nagar,27027
+58,New Tippasandara,2039
+59,Maruthi Seva Nagar,16327
+60,Sagayarapuram,14167
+61,S K Garden,13916
+62,Ramaswamy Palya,13349
+63,Jayamahal,8297
+64,Rajamahal Guttahalli,12586
+65,Kadu Malleshwar Ward,14776
+66,Subramanya Nagar,14550
+67,Nagapura,14481
+68,Mahalakshimpuram,19345
+69,Laggere,29114
+70,Rajagopal Nagar,33382
+71,Hegganahalli,34123
+72,Herohalli,27498
+73,Kottegepalya,31196
+74,Shakthi Ganapathi Nagar,19666
+75,Shankar Matt,20727
+76,Gayithri Nagar,13440
+77,Dattatreya Temple,14716
+78,Pulikeshinagar,10906
+79,Sarvagna Nagar,16480
+80,Hoysala Nagar,15847
+81,Vijnana Nagar,26336
+82,Garudachar Playa,25721
+83,Kadugodi,17920
+84,Hagadur,22359
+85,Dodda Nekkundi,30091
+86,Marathahalli,19700
+87,HAL Airport,16457
+88,Jeevanbhima Nagar,16818
+89,Jogupalya,14541
+90,Halsoor,16802
+91,Bharathi Nagar,11471
+92,Shivaji Nagar,12723
+93,Vasanth Nagar,9339
+94,Gandhinagar,13224
+95,Subhash Nagar,16569
+96,Okalipuram,16137
+97,Dayananda Nagar,15565
+98,Prakash Nagar,12836
+99,Rajaji Nagar,13728
+100,Basaveshwara Nagar,12810
+101,Kamakshipalya,12835
+102,Vrisabhavathi Nagar,24334
+103,Kaveripura,25022
+104,Govindaraja Nagar,11117
+105,Agrahara Dasarahalli,12259
+106,Dr. Raj Kumar Ward,10519
+107,Shivanagara,15995
+108,Sriramamandir,14002
+109,Chickpete,12158
+110,Sampangiram Nagar,11017
+111,Shantala Nagar,9700
+112,Domlur,13005
+113,Konena Agrahara,18567
+114,Agaram,17913
+115,Vannarpet,15016
+116,Nilasandra,20245
+117,Shanthi Nagar,18144
+118,Sudham Nagara,12509
+119,Dharmaraya Swamy Temple,9850
+120,Cottonpete,14910
+121,Binnipete,15957
+122,Kempapura Agrahara,18454
+123,Vijayanagar,17162
+124,Hosahalli,16097
+125,Marenahalli,9230
+126,Maruthi Mandir ward,12938
+127,Mudalapalya,19206
+128,Nagarabhavi,14997
+129,Jnana Bharathi ward,28464
+130,Ullalu,24050
+131,Nayandahalli,21144
+132,Attiguppe,17295
+133,Hampi Nagar,14292
+134,Bapuji Nagar,20011
+135,Padarayanapura,13034
+136,Jagajivanaramnagar,14498
+137,Rayapuram,13644
+138,Chalavadipalya,9579
+139,K R Market,11421
+140,Chamrajapet,12991
+141,Azad Nagar,16191
+142,Sunkenahalli,14022
+143,Vishveshwara Puram,12345
+144,Siddapura,14559
+145,Hombegowda Nagara,15851
+146,Lakkasandra,12411
+147,Adugodi,14153
+148,Ejipura,21409
+149,Varthuru,23100
+150,Bellanduru,42330
+151,Koramangala,18350
+152,Suddagunte Palya,19939
+153,Jayanagar,15662
+154,Basavanagudi,14246
+155,Hanumanth Nagar,15339
+156,Srinagar,17521
+157,Gali Anjenaya Temple ward,15794
+158,Deepanjali Nagar,20835
+159,Kengeri,16631
+160,Rajarajeshwari Nagar,24660
+161,Hosakerehalli,19699
+162,Girinagar,18897
+163,Katriguppe,19663
+164,Vidyapeeta ward,18769
+165,Ganesh Mandir ward,10790
+166,Karisandra,11569
+167,Yediyur,13745
+168,Pattabhiram Nagar,11281
+169,Byrasandra,13390
+170,Jayanagar East,14422
+171,Gurappanapalya,18431
+172,Madivala,20277
+173,Jakkasandra,15047
+174,HSR Layout,30718
+175,Bommanahalli,21811
+176,BTM Layout,25978
+177,J P Nagar,13075
+178,Sarakki,13448
+179,Shakambari Nagar,12159
+180,Banashankari Temple ward,18108
+181,Kumaraswamy Layout,19931
+182,Padmanabha Nagar,16684
+183,Chikkalsandra,18827
+184,Uttarahalli,25161
+185,Yelchenahalli,19410
+186,Jaraganahalli,17025
+187,Puttenahalli,2206
+188,Bilekhalli,22694
+189,Hongasandra,38626
+190,Mangammanapalya,34274
+191,Singasandra,34577
+192,Begur,39729
+193,Arakere,31525
+194,Gottigere,22779
+195,Konankunte,25446
+196,Anjanapura,19194
+197,Vasanthpura,27907
+198,Hemmigepura,21182

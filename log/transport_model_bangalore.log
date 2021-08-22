@@ -1,0 +1,113 @@
+INFO:2021-08-22 23:06:48,042:--- Starting model run ---
+INFO:2021-08-22 23:06:48,042:Trip generation ...
+INFO:2021-08-22 23:06:48,042:| - supply data
+INFO:2021-08-22 23:06:48,679:| - demand data
+INFO:2021-08-22 23:06:48,679:* home locations
+INFO:2021-08-22 23:06:48,685:* employee locations
+INFO:2021-08-22 23:06:48,810:NumExpr defaulting to 4 threads.
+INFO:2021-08-22 23:06:49,344:Trip distribution ...
+INFO:2021-08-22 23:07:01,108:Mode choice ...
+INFO:2021-08-22 23:07:01,108:running Scenario 1
+INFO:2021-08-22 23:07:19,268:running Scenario 2
+INFO:2021-08-22 23:07:34,935:running Scenario 3
+INFO:2021-08-22 23:07:50,525:Route assignment ...
+INFO:2021-08-22 23:07:50,526:running Scenario 1:
+INFO:2021-08-22 23:07:50,527:| walking
+INFO:2021-08-22 23:08:12,032:| bus
+INFO:2021-08-22 23:08:33,074:| car
+INFO:2021-08-22 23:08:54,041:Done!
+INFO:2021-08-22 23:09:28,662:--- Starting model run ---
+INFO:2021-08-22 23:09:28,663:Trip generation ...
+INFO:2021-08-22 23:09:28,663:| - supply data
+INFO:2021-08-22 23:09:29,235:| - demand data
+INFO:2021-08-22 23:09:29,235:* home locations
+INFO:2021-08-22 23:09:29,241:* employee locations
+INFO:2021-08-22 23:09:29,363:NumExpr defaulting to 4 threads.
+INFO:2021-08-22 23:09:29,879:Trip distribution ...
+INFO:2021-08-22 23:09:41,614:Mode choice ...
+INFO:2021-08-22 23:09:41,615:running Scenario 1
+INFO:2021-08-22 23:09:56,680:running Scenario 2
+INFO:2021-08-22 23:10:13,107:running Scenario 3
+INFO:2021-08-22 23:10:29,633:Route assignment ...
+INFO:2021-08-22 23:11:33,810:Done!
+INFO:2021-08-22 23:13:04,641:--- Starting model run ---
+INFO:2021-08-22 23:13:04,641:Trip generation ...
+INFO:2021-08-22 23:13:04,641:| - supply data
+INFO:2021-08-22 23:13:05,472:| - demand data
+INFO:2021-08-22 23:13:05,472:* home locations
+INFO:2021-08-22 23:13:05,479:* employee locations
+INFO:2021-08-22 23:13:05,595:NumExpr defaulting to 4 threads.
+INFO:2021-08-22 23:13:06,188:Trip distribution ...
+INFO:2021-08-22 23:13:19,427:Mode choice ...
+INFO:2021-08-22 23:13:19,427:running Scenario 1
+INFO:2021-08-22 23:13:34,986:running Scenario 2
+INFO:2021-08-22 23:13:52,317:running Scenario 3
+INFO:2021-08-22 23:14:08,986:Route assignment ...
+INFO:2021-08-22 23:17:35,124:Done!
+INFO:2021-08-22 23:28:25,211:--- Starting model run ---
+INFO:2021-08-22 23:28:25,211:Trip generation ...
+INFO:2021-08-22 23:28:25,211:| - supply data
+INFO:2021-08-22 23:28:25,741:| - demand data
+INFO:2021-08-22 23:28:25,741:* home locations
+INFO:2021-08-22 23:28:25,746:* employee locations
+INFO:2021-08-22 23:28:26,480:Trip distribution ...
+INFO:2021-08-22 23:28:34,148:Mode choice ...
+INFO:2021-08-22 23:28:34,149:running Scenario 1
+INFO:2021-08-22 23:28:40,087:running Scenario 2
+INFO:2021-08-22 23:28:46,540:running Scenario 3
+INFO:2021-08-22 23:28:52,851:Route assignment ...
+INFO:2021-08-22 23:30:51,276:--- Starting model run ---
+INFO:2021-08-22 23:30:51,276:Trip generation ...
+INFO:2021-08-22 23:30:51,276:| - supply data
+INFO:2021-08-22 23:30:51,823:| - demand data
+INFO:2021-08-22 23:30:51,823:* home locations
+INFO:2021-08-22 23:30:51,828:* employee locations
+INFO:2021-08-22 23:30:52,524:Trip distribution ...
+INFO:2021-08-22 23:31:00,759:Mode choice ...
+INFO:2021-08-22 23:31:00,759:running Scenario 1
+INFO:2021-08-22 23:31:07,252:running Scenario 2
+INFO:2021-08-22 23:31:14,192:running Scenario 3
+INFO:2021-08-22 23:31:20,781:Route assignment ...
+INFO:2021-08-22 23:32:05,591:--- Starting model run ---
+INFO:2021-08-22 23:32:05,592:Trip generation ...
+INFO:2021-08-22 23:32:05,592:| - supply data
+INFO:2021-08-22 23:32:06,107:| - demand data
+INFO:2021-08-22 23:32:06,107:* home locations
+INFO:2021-08-22 23:32:06,112:* employee locations
+INFO:2021-08-22 23:32:06,958:Trip distribution ...
+INFO:2021-08-22 23:32:15,759:Mode choice ...
+INFO:2021-08-22 23:32:15,759:running Scenario 1
+INFO:2021-08-22 23:32:22,219:running Scenario 2
+INFO:2021-08-22 23:32:28,864:running Scenario 3
+INFO:2021-08-22 23:32:35,180:Route assignment ...
+INFO:2021-08-22 23:34:36,505:Done!
+INFO:2021-08-22 23:35:24,709:--- Starting model run ---
+INFO:2021-08-22 23:35:24,709:Trip generation ...
+INFO:2021-08-22 23:35:24,709:| - supply data
+INFO:2021-08-22 23:35:25,236:| - demand data
+INFO:2021-08-22 23:35:25,236:* home locations
+INFO:2021-08-22 23:35:25,241:* employee locations
+INFO:2021-08-22 23:35:25,941:Trip distribution ...
+INFO:2021-08-22 23:35:33,869:Mode choice ...
+INFO:2021-08-22 23:35:33,869:running Scenario 1
+INFO:2021-08-22 23:35:39,887:running Scenario 2
+INFO:2021-08-22 23:39:50,720:--- Starting model run ---
+INFO:2021-08-22 23:39:50,720:Trip generation ...
+INFO:2021-08-22 23:39:50,720:| - supply data
+INFO:2021-08-22 23:39:51,224:| - demand data
+INFO:2021-08-22 23:39:51,224:* home locations
+INFO:2021-08-22 23:39:51,229:* employee locations
+INFO:2021-08-22 23:39:51,887:Trip distribution ...
+INFO:2021-08-22 23:39:59,437:Mode choice ...
+INFO:2021-08-22 23:39:59,437:running Scenario 1
+INFO:2021-08-22 23:40:06,785:running Scenario 2
+INFO:2021-08-22 23:41:55,775:--- Starting model run ---
+INFO:2021-08-22 23:41:55,775:Trip generation ...
+INFO:2021-08-22 23:41:55,775:| - supply data
+INFO:2021-08-22 23:41:56,301:| - demand data
+INFO:2021-08-22 23:41:56,301:* home locations
+INFO:2021-08-22 23:41:56,307:* employee locations
+INFO:2021-08-22 23:41:56,997:Trip distribution ...
+INFO:2021-08-22 23:42:07,003:Mode choice ...
+INFO:2021-08-22 23:42:07,003:running Scenario 1
+INFO:2021-08-22 23:42:13,828:running Scenario 2
