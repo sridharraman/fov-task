@@ -21,8 +21,11 @@ NOTE: Using conda/pipenv is recommended to have a separate environment. But it's
 If using conda, these are the steps:
 
 `conda create --name fov-task`
+
 `conda activate fov-task`
+
 `conda install pip`
+
 `pip install -r requirements.txt`
 
 ## Model running
