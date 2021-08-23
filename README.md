@@ -5,11 +5,17 @@
 The repository has been organised as follows:
 
 data/ -- contains all the supply and demand data for the running of the model
-  processed/ -- generated during the running of the model
+
+|  processed/ -- generated during the running of the model
+
 docs/ -- contains model description
-  presentations/ -- contains presentations (in PDF, PPTX) form for Academics and Decision-makers
+
+|  presentations/ -- contains presentations (in PDF, PPTX) form for Academics and Decision-makers
+
 transport_mode.py -- model script
+
 requirements.txt -- list of python libraries for installation
+
 log/ -- logging
 
 ## Installation
